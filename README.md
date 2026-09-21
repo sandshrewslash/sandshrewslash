@@ -1,3 +1,7 @@
+<div align="center">
+<h1>Por Gentileza não Leve esse Readme a Serio</h1>
+</div>
+
 ## Sand Sand Sand Shrew 
 
 <div align="center">
@@ -8,17 +12,24 @@
 <br>
 
 ---
+___
+
+<details>
+  <summary>Aqui é o Inferno , não Abra</summary>
 
 ## Você Gosta de Gordinha????
 >A Dupla Gordon + Raphinha
 <div align="center">
 <img src="gordon_raphinha.webp" height="100%" widht="100%">
+<h3>esses caba são bons </h3>
 </div>
 <br>
 <br>
 <br>
 
 ---
+___
+
 <div align="center">
 <h1>
 Primeira impressão, cê não sobe<br><br>
@@ -27,6 +38,8 @@ Terceiro, Guzma também pode<br><br>
 E quarto, que você não peita A PORR@ DO GOLISOPOD
 </h1>
 <img src="golisopod.jfif" height="100%" widht="100%">
+<h3>Golisopod Top 2</h3>
+<h6>Só Atrás do Sandshrew </h6>
 
 </div>
 <br>
@@ -34,6 +47,18 @@ E quarto, que você não peita A PORR@ DO GOLISOPOD
 <br>
 
 ---
+___
+
+
+<div align="center">
+<img src="oi.png" height="100%" widht="100%">
+<h1>Eles Estão de Oio em Nois</h1>
+<h6>Aleska Peidou</h6>
+</div>
+
+
+---
+___
 
 
 <div align="center">
@@ -68,3 +93,20 @@ Ho provato a scappare, ma non ci riesco.<br>
 Ogni volta che apro gli occhi, tutto inizia e finisce allo stesso modo.
 
 </div>
+
+---
+___
+
+
+<div align="center">
+<img src="ka.avif" height="100%" widht="100%">
+<h1>Ate mais Baby</h1>
+<h6>Graças a Deus esse é o fim do Readme</h6>
+</div>
+
+
+
+</details>
+
+
+
