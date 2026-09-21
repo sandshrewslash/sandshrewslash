@@ -1,6 +1,16 @@
 ## Sand Sand Sand Shrew 
 
+<div align="center">
+<img src="banner.jpg" height="100%" widht="100%">
+</div>
+
 ---
+
+## Você Gosta de Gordinha????
+>A Dupla Gordon + Raphinha
+<div align="center">
+<img src="gordon_raphinha.webp" height="100%" widht="100%">
+</div>
 
 Mi rendo conto del valore di un amico.<br>
 Anche se è un fallimento, il suo odore mi fa ancora male.<br>
