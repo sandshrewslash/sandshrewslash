@@ -3,6 +3,9 @@
 <div align="center">
 <img src="banner.jpg" height="100%" widht="100%">
 </div>
+<br>
+<br>
+<br>
 
 ---
 
@@ -11,9 +14,30 @@
 <div align="center">
 <img src="gordon_raphinha.webp" height="100%" widht="100%">
 </div>
-
+<br>
+<br>
+<br>
 
 ---
+<div align="center">
+<h1>
+Primeira impressão, cê não sobe<br><br>
+Segundo lugar também é forte<br><br>
+Terceiro, Guzma também pode<br><br>
+E quarto, que você não peita A PORR@ DO GOLISOPOD
+</h1>
+<img src="golisopod.jfif" height="100%" widht="100%">
+
+</div>
+<br>
+<br>
+<br>
+
+---
+
+
+<div align="center">
+<img src="vn.jpg" height="100%" widht="100%">
 
 
 Mi rendo conto del valore di un amico.<br>
@@ -42,3 +66,5 @@ Ce l'ho solo ora.<br>
 Non mi vedo più.<br>
 Ho provato a scappare, ma non ci riesco.<br>
 Ogni volta che apro gli occhi, tutto inizia e finisce allo stesso modo.
+
+</div>
